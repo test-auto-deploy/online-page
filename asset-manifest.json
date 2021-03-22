@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/online-page/static/css/main.a617e044.chunk.css",
-    "main.js": "/online-page/static/js/main.d100a358.chunk.js",
-    "main.js.map": "/online-page/static/js/main.d100a358.chunk.js.map",
-    "runtime-main.js": "/online-page/static/js/runtime-main.fcac54f5.js",
-    "runtime-main.js.map": "/online-page/static/js/runtime-main.fcac54f5.js.map",
-    "static/js/2.96c0abcc.chunk.js": "/online-page/static/js/2.96c0abcc.chunk.js",
-    "static/js/2.96c0abcc.chunk.js.map": "/online-page/static/js/2.96c0abcc.chunk.js.map",
-    "static/js/3.a6283d55.chunk.js": "/online-page/static/js/3.a6283d55.chunk.js",
-    "static/js/3.a6283d55.chunk.js.map": "/online-page/static/js/3.a6283d55.chunk.js.map",
-    "index.html": "/online-page/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/online-page/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.96c0abcc.chunk.js.LICENSE.txt": "/online-page/static/js/2.96c0abcc.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/online-page/static/media/logo.6ce24c58.svg"
+    "main.css": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/static/js/main.d100a358.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/static/js/main.d100a358.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/static/js/runtime-main.bd1da88f.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/static/js/runtime-main.bd1da88f.js.map",
+    "static/js/2.96c0abcc.chunk.js": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/static/js/2.96c0abcc.chunk.js",
+    "static/js/2.96c0abcc.chunk.js.map": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/static/js/2.96c0abcc.chunk.js.map",
+    "static/js/3.a6283d55.chunk.js": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/static/js/3.a6283d55.chunk.js",
+    "static/js/3.a6283d55.chunk.js.map": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/static/js/3.a6283d55.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.96c0abcc.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/static/js/2.96c0abcc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "https://cdn.jsdelivr.net/gh/test-auto-deploy/online-page@v0.0.1/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcac54f5.js",
+    "static/js/runtime-main.bd1da88f.js",
     "static/js/2.96c0abcc.chunk.js",
-    "static/css/main.a617e044.chunk.css",
+    "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.d100a358.chunk.js"
   ]
 }
